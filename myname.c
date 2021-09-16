@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 main() {
-printf("§d«ä¬X\n");
+printf("吳思柔\n");
 }
